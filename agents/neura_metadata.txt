@@ -1,0 +1,12 @@
+0|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\astrodingra\Downloads\neura-os\agents\meeting_notes_2025.txt|Content Snippet: 'Discussed the Neura OS project architecture and memory design....'
+1|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\astrodingra\Downloads\neura-os\agents\neura_log.txt|Content Snippet: 'OS Prototype Test Running...'
+2|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\astrodingra\Downloads\neura-os\agents\research_summary.txt|Content Snippet: 'We need a full report on vector database search latency....'
+3|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\astrodingra\Downloads\neura-os\agents\file_watcher_daemon.py|Content Snippet: '# /Users/astrodingra/Downloads/neura-os/agents/file_watcher_daemon.py
+4|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\astrodingra\Downloads\neura-os\agents\neura_api.py|Content Snippet: '...'
+5|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\astrodingra\Downloads\neura-os\agents\main_orchestrator.py|Content Snippet: '# /Users/astrodingra/Downloads/neura-os/agents/main_orchestrator.py
+6|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\Himanshi Gupta\Downloads\neura-os\agents\meeting_notes_2025.txt|Content Snippet: 'Discussed the Neura OS project architecture and memory design....'
+7|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\Himanshi Gupta\Downloads\neura-os\agents\neura_log.txt|Content Snippet: 'OS Prototype Test Running......'
+8|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\Himanshi Gupta\Downloads\neura-os - Copy (2)\agents\meeting_notes_2025.txt|Content Snippet: 'Discussed the Neura OS project architecture and memory design....'
+9|/Users/astrodingra/Downloads/os-neura/agents/C:\Users\Himanshi Gupta\Downloads\neura-os - Copy (2)\agents\neura_log.txt|Content Snippet: 'OS Prototype Test Running......'
+10|/Users/astrodingra/Downloads/os-neura/agents/meeting_notes_2025.txt|Content Snippet: 'Discussed the Neura OS project architecture and memory design....'
+11|/Users/astrodingra/Downloads/os-neura/agents/neura_log.txt|Content Snippet: 'OS Prototype Test Running......'

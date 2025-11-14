@@ -1,0 +1,1 @@
+We need a full report on vector database search latency.

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "vscode",
+    "name": "VS Code",
+    "category": "Development",
+    "download_url_macos": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal",
+    "launch_path_macos": "/Applications/Visual Studio Code.app"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "category": "Music",
+    "download_url_macos": "https://download.scdn.co/client/latest/darwin",
+    "launch_path_macos": "/Applications/Spotify.app"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "Design",
+    "download_url_macos": "https://www.figma.com/download/desktop/mac",
+    "launch_path_macos": "/Applications/Figma.app"
+  }
+]

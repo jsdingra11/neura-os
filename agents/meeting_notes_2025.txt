@@ -1,0 +1,1 @@
+Discussed the Neura OS project architecture and memory design.
